@@ -1,7 +1,7 @@
-# WhatsApp-Lock-V1 Coded By @Descodia_king
+# WA OTP LOCKED BY @th3bunny
 
  
-git clone https://github.com/Descodia/https-github.com-Descodia-Descodia.git
+git clone https://github.com/bunnynew80/Descodia/e
 cd Descodia
 cd bota2
 cd bota2
@@ -14,5 +14,5 @@ Enter Your Number Without Country Code Like 1234567890
 
 
 If You Face Any Issue
-Contact Me On Telegram:- @descodia
+Contact Me On Telegram:- @th3bunny
            
