@@ -1,7 +1,7 @@
 # WA OTP LOCKED BY @th3bunny
 
  
-git clone https://github.com/bunnynew80/Descodia/e
+git clone https://github.com/Descodia/Descodia.git
 cd Descodia
 cd bota2
 cd bota2
