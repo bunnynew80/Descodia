@@ -25,7 +25,7 @@ const start = async () => {
       try {
       //console.log(gradient('red', 'red')('💀■■■■■■■💀 +' + ddi + number))
       console.clear();
-      console.log(gradient('red', 'blue')('💀Locking Number By @ransomxrend3ro💀 +' + ddi + number))
+      console.log(gradient('red')('𝐘𝐎𝐔𝐑 𝐓𝐀𝐑𝐆𝐄𝐓 𝐍𝐔𝐌𝐁𝐄𝐑 𝐖𝐀 𝐎𝐓𝐏 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐋𝐎𝐂𝐊𝐄𝐃 ,𝐁𝐘 @th3bunny' + ddi + number))
         res = await spam.requestRegistrationCode({
           phoneNumber: '+' + phoneNumber,
           phoneNumberCountryCode: ddi,
